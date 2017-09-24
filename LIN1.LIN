@@ -1,0 +1,12 @@
+;;; File LIN1.LIN
+;;; Designed for metric based mechanical drawings
+;;; 
+
+;;  Complex LineTypes
+;;
+;;  These LineTypes refer LTypeShp.shx.
+;;
+;; A,6.25,-2.5,[CIRC1,ltypeshp.shx,x=-2.5,s=2.5],-2.5,2.5
+
+*12V, 12V ---- 12V ---- 12V ---- 12V ----
+A,12.7,-5.08,["12V",STANDARD,S=2.54,R=0.0,X=-2.54,Y=-1.27],-5.08
